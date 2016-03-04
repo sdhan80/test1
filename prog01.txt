@@ -1,1 +1,7 @@
 #prog1 start
+
+file open
+
+calculate
+
+file write
